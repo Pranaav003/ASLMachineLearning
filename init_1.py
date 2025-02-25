@@ -133,7 +133,7 @@ if __name__ == "__main__":
     main()
 
 # Actions to try and detect
-actions = np.array(["goodbye", "welcome"])
+actions = np.array(["cook", "exercise", "sleep"])
 
 # Path for exported data, np arrays
 DATA_PATH = os.path.join("MP_Data")
